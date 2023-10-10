@@ -5,12 +5,12 @@
   </h1>
 </div>
 
-![Frame 1](https://github.com/Blockify-Launcher/.github/assets/84909252/3c8e1a9a-b7dd-43e0-9897-649dceae2c08)
+![Baner](https://github.com/Blockify-Launcher/.github/assets/84909252/47206b7a-edc5-4b4c-b368-9e8e6634ecce)
 --
 ### Screenshot of developments :
 
 <div align="center">
-  <img src="https://github.com/Blockify-Launcher/.github/assets/84909252/042e1f1e-5bdc-4e31-a756-46b4a7310eb8"/>
+  <img src="https://github.com/Blockify-Launcher/.github/assets/84909252/6ea124fb-960e-4a5b-8bdb-26fbe252a836"/>
 </div>
 
 It was nice to see the star support because the development is going on pure enthusiasm and nothing more than that
