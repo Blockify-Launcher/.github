@@ -18,7 +18,7 @@ It was nice to see the star support because the development is going on pure ent
 ---
 
 <div align="center"> 
-  <a href="https://www.youtube.com/watch?v=ESb3ad-1lJE" title="click to open the music.">
     <img src="https://github.com/Blockify-Launcher/.github/assets/84909252/8f2b49c8-20df-4fb5-9a3c-b98bb773860f"/>
-  </a>
 </div>
+
+🎵Music for the soul - [Music](https://youtu.be/ESb3ad-1lJE?si=Q2SByRH-E4HANvkH) 
