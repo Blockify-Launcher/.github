@@ -14,3 +14,11 @@
 </div>
 
 It was nice to see the star support because the development is going on pure enthusiasm and nothing more than that
+
+---
+
+<div align="center"> 
+    <img src="https://github.com/Blockify-Launcher/.github/assets/84909252/8f2b49c8-20df-4fb5-9a3c-b98bb773860f"/>
+</div>
+
+🎵Music for the soul - [Music](https://youtu.be/ESb3ad-1lJE?si=Q2SByRH-E4HANvkH) 
