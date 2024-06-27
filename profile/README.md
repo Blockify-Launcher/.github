@@ -10,10 +10,12 @@
 ### Screenshot of developments :
 
 <div align="center">
-  <img src="https://github.com/Blockify-Launcher/.github/assets/84909252/6ea124fb-960e-4a5b-8bdb-26fbe252a836"/>
+  <img src="https://github.com/Blockify-Launcher/.github/assets/84909252/59ab7db6-ef32-4e19-918b-36cdc2d49c39"/>
 </div>
 
-It was nice to see the star support because the development is going on pure enthusiasm and nothing more than that
+It was nice to see the star support because the development is going on pure enthusiasm and nothing more than that. For now, the Launcher is conceived ONLY for Windows. In the future we will implement it for Linux and MacOS. 
+
+By the end of the summer there could be a first beta for general use. It's such a long development time because I'm the only one on the project.
 
 ---
 
